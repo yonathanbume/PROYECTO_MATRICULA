@@ -1,0 +1,1 @@
+insert into semestreacademico values (0, '2021-1');
